@@ -1,0 +1,24 @@
+{
+    "name": "kennisnet/yourls-case-insensitive",
+    "type": "yourls-plugin",
+    "description": "Makes YOURLS case insensitive",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Aylwin"
+        },
+        {
+            "name": "Frank Matheron",
+            "email": "frankmatheron@gmail.com"
+        }
+    ],
+    "require": {
+        "kennisnet/yourls-plugin-installer": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/fenuz/yourls-plugin-installer.git"
+        }
+    ]
+}
